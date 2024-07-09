@@ -1,0 +1,13 @@
+# Virtual environment
+.env
+
+# Data files
+data/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class

@@ -7,8 +7,8 @@ This project aims to streamline the workflow for creating storyboard ads by util
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/Adludio_Project.git
-    cd Adludio_Project
+    git clone https://github.com/MelakuAlehegn/semantic-image-text-alignment.git
+    cd semantic-image-text-alignment
     ```
 
 2. Create and activate a virtual environment:
